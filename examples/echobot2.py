@@ -22,7 +22,6 @@ import logging
 import os
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 import subprocess
-#admin = ['raldokusuma','adadeeeh','udinIMM','fathoniadi','syukronrm']
 
 f = open("admin.txt", "r")
 listAdmin = []
